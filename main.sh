@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 tput civis
 clear
 while true
